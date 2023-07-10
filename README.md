@@ -13,7 +13,7 @@ public class Hello{
 ```
 >사람은 갈대 같다
 
-![kane img](/images/kane.jpg)
+![kane.img](/images/kane.jpg)
 
 |Header | Header|
 | ----- | ------|
