@@ -1,6 +1,6 @@
 # Remote-practice4
 
-- 그라타타
+- 마크다운 연습중입니다 
 
 ## README 연습
 
@@ -11,7 +11,7 @@ public class Hello{
     private int number;
 }
 ```
->사람은 갈대 같다
+>자기가 노인이라는 사람인데
 
 ![kane.img](/images/kane.jpg)
 
